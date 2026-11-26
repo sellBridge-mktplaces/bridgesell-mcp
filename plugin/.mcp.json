@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bridgesell": {
+      "type": "http",
+      "url": "https://bridgesell-iris.onrender.com/mcp"
+    }
+  }
+}

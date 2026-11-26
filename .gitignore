@@ -1,0 +1,6 @@
+.env
+.env.*
+*.pem
+*.key
+*.zip
+.DS_Store

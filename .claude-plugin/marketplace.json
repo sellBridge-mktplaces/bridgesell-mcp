@@ -1,0 +1,15 @@
+{
+  "name": "bridgesell",
+  "description": "BridgeSell plugin: read-only answers about your marketplace stores (Amazon, Mercado Livre, Shopee, TikTok Shop).",
+  "owner": {
+    "name": "BridgeSell Tecnologia LTDA",
+    "url": "https://www.bridgesell.ai"
+  },
+  "plugins": [
+    {
+      "name": "bridgesell",
+      "source": "./plugin",
+      "description": "Read-only BridgeSell data (orders, listings, stock, catalog compliance, finances) through the BridgeSell MCP server, with OAuth sign-in."
+    }
+  ]
+}

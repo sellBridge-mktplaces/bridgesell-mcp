@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "bridgesell",
+      "name": "bridgesell-marketplaces",
       "source": "./plugin",
       "description": "Read-only BridgeSell data (orders, listings, stock, catalog compliance, finances) through the BridgeSell MCP server, with OAuth sign-in."
     }

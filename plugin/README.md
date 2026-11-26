@@ -23,7 +23,7 @@ An active BridgeSell account. When you first use the plugin, Claude asks you to 
 ## Install in Claude Code
 
 ```
-/plugin install bridgesell --marketplace sellBridge-mktplaces/bridgesell-mcp
+/plugin install bridgesell-marketplaces --marketplace sellBridge-mktplaces/bridgesell-mcp
 ```
 
 ## Example questions
